@@ -9,6 +9,7 @@ Bindhu Madhava Varma</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br/>
+
 - 🔭 I’m currently working at <a href="https://shell.com" target="blank">Shell </a> as Associate Software Engineer
 
 - 🌱 I’m currently Working on Azure Integration Technologies (Azure Data Factory, Logic Apps, Azure Functions, Azure Databricks)
