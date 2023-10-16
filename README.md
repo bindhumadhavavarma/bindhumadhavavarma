@@ -36,8 +36,8 @@ Bindhu Madhava Varma</a></h1>
 </p>
 <h2 align="center">My Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bindhumadhavavarma&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindhumadhavavarma&theme=vue-dark&hide_border=true" />
+  <img style="width:46%" src="https://github-readme-stats.vercel.app/api?username=bindhumadhavavarma&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img style="width:49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bindhumadhavavarma&theme=vue-dark&hide_border=true" />
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindhumadhavavarma&theme=vue-dark&show_icons=true&hide_border=true&layout=donut&langs_count=10" />
